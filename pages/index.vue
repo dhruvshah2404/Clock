@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Day2 - Clock</h1>
+    <h1>Day 2 - Clock</h1>
     <h2>{{ city }}, {{ province }}</h2>
     <h2>{{country}} {{flag}}</h2>
     <div class="clock">
